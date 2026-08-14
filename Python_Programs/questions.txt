@@ -1,0 +1,43 @@
+1. Swapping Two Numbers
+Write a program to swap two numbers without using a temporary variable.
+
+2. Sorting an Array
+Write a program to sort an array of integers using the bubble sort algorithm.
+
+3. Palindrome Check
+Write a program to check if a given string is a palindrome.
+
+4. Factorial Calculation
+Write a program to calculate the factorial of a given number using recursion.
+
+5. Fibonacci Sequence
+Write a program to generate the first n numbers in the Fibonacci sequence.
+
+6. Reverse a String
+Write a program to reverse a given str
+
+7. Find Maximum and Minimum in Array
+Write a program to find the maximum and minimum elements in an array.
+
+8. Check Prime Number
+Write a program to check if a given number is a prime number.
+
+9. Merge Two Sorted Arrays
+Write a program to merge two sorted arrays into a single sorted array.
+
+10. Sum of Digits
+Write a program to calculate the sum of digits of a given number.
+
+11. Anagram Check
+Write a program to check if two given strings are anagrams of each other.
+
+12. Remove Duplicates from Array
+Write a program to remove duplicate elements from an array.
+
+13. Count Vowels and Consonants.
+
+14. Neon Number Program
+A neon number is a special number where the sum of the digits of its square is
+equal to the number itself
+
+15. Armstrong Number Program
